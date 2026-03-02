@@ -1,4 +1,4 @@
-# Software Taller de Transferencia Tecnológica INDUMIL
+# Software Taller de Transferencia Tecnológica
 
 
 Enlaces de descarga al software a usar en la sesión práctica.
