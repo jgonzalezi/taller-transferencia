@@ -3,7 +3,7 @@
 
 Enlaces de descarga al software a usar en la sesión práctica.
 
-Descargue e instale los programas listados aquí. Recuerde que se necesita un computador con sistema operativo Windows 11
+Descargue e instale los programas listados aquí. Recuerde que se necesita un computador con sistema operativo Windows 11 y un lector para memorias MicroSD.
 
 0. MATLAB + MATLAB UAV Toolbox - Software para procesar los datos
    Por favor instale UAV Toolbox en su entorno MATLAB. El proceso para instalar un toolbox se detalla en este [tutorial](https://la.mathworks.com/help/matlab/matlab_env/get-add-ons.html)  y en este [video tutorial](https://www.mathworks.com/videos/add-on-explorer-106745.html) de Mathworks.
