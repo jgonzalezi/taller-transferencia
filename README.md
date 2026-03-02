@@ -1,7 +1,9 @@
 # Software Taller de Transferencia Tecnológica INDUMIL
 
-El objetivo de este repositorio es proporcionar enlaces para descargar todo el software a usar en la sesión práctica del taller.
-Se incluyen los instaladores a todo el software excepto a Matlab/Matlab UAV Toolbox
+
+Enlaces de descarga al software a usar en la sesión práctica.
+
+Recordar que se necesita un computador con sistema operativo Windows 11
 
 0. MATLAB + MATLAB UAV Toolbox - Software para procesar los datos
    Por favor instalar UAV Toolbox en su entorno MATLAB.
